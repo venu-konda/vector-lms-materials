@@ -1,0 +1,14 @@
+a.out : Menu1.o AddLast.o Display.o RPrint.o DelData.o DelFirst.o
+	cc Menu1.o AddLast.o Display.o RPrint.o DelData.o DelFirst.o
+Menu1.o : Menu1.c
+	cc -c Menu1.c
+AddLast.o : AddLast.c
+	cc -c AddLast.c
+Display.o : Display.c
+	cc -c Display.c
+RPrint.o : RPrint.c
+	cc -c RPrint.c
+DelData.o : DelData.c
+	cc -c DelData.c
+DelFirst.o : DelFirst.c
+	cc -c DelFirst.c

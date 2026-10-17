@@ -1,0 +1,305 @@
+# V23HE7 - ARM
+
+
+## General
+
+- Announcements (forum) — no downloadable file; see https://lms.vectorinstitute.in/mod/forum/view.php?id=58456
+
+## LESSON TOPICS
+
+- INTRODUCTION (lesson) — no downloadable file; see https://lms.vectorinstitute.in/mod/lesson/view.php?id=58459
+- ARM7 ARCHITECTURE (lesson) — no downloadable file; see https://lms.vectorinstitute.in/mod/lesson/view.php?id=58462
+- ISA (lesson) — no downloadable file; see https://lms.vectorinstitute.in/mod/lesson/view.php?id=58465
+- IO PERIPHERAL (lesson) — no downloadable file; see https://lms.vectorinstitute.in/mod/lesson/view.php?id=58468
+- IO DEVICES INTERFACING (lesson) — no downloadable file; see https://lms.vectorinstitute.in/mod/lesson/view.php?id=58471
+- TIMERS (lesson) — no downloadable file; see https://lms.vectorinstitute.in/mod/lesson/view.php?id=58474
+- UART (lesson) — no downloadable file; see https://lms.vectorinstitute.in/mod/lesson/view.php?id=58477
+- INTERRUPTS (lesson) — no downloadable file; see https://lms.vectorinstitute.in/mod/lesson/view.php?id=58480
+
+## Explore ARM
+
+- ASSIGNMENTS: `Explore ARM/ASSIGNMENTS/Embedded-C Assignments - PART1.pdf`
+- ASSIGNMENTS: `Explore ARM/ASSIGNMENTS/Embedded-C Assignments - PART2.pdf`
+- Keil4IDE_ARM link (url) — no downloadable file; see https://lms.vectorinstitute.in/mod/url/view.php?id=58486
+- Proteus Software Link (url) — no downloadable file; see https://lms.vectorinstitute.in/mod/url/view.php?id=58489
+- KEIL4 PROJECT CREATION STEPS: `Explore ARM/KEIL4 PROJECT CREATION STEPS/KEIL4 PROJECT CREATION STEPS.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/EBOOKS/ARM System Developers Guide_ Designing and Optimizing System Software (The Morgan Kaufmann Series in Computer Architecture and Design) ( PDFDrive ).pd`
+- Reference_Files: `Explore ARM/Reference_Files/EBOOKS/lpc-ARM-book_srn.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS LCD/hd44780.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS LCD/LCD Interfacing using HD44780 Hitachi chipset compatible LCD.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS MICROCONTROLLERS/LPC2129_Manual_new.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS MICROCONTROLLERS/LPC2129.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS MICROCONTROLLERS/LPC2141_42_44_46_48.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS MICROCONTROLLERS/LPC214x Manual.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS MICROCONTROLLERS/user_manual_lpc2119_2129_2194_2292_2294.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/ARM Introduction 1.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/ARM Introduction 2.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/ARM Introduction.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/ARM 7 Core.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/CPU Design Architectures.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/ARM FLAG REGISTER.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/ARM7 PIPELINING.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/Bus Architecture  Memory Map.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/ARM7 Exceptions.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/LPC2129 Features.pdf`
+- ClassRoomFiles: `Explore ARM/ClassRoomFiles/t_14022023.pdf`
+- ClassRoomFiles: `Explore ARM/ClassRoomFiles/Inside_CPU.pdf`
+- ClassRoomFiles: `Explore ARM/ClassRoomFiles/ARM7 Architectural Features.pdf`
+- ClassRoomFiles: `Explore ARM/ClassRoomFiles/MODES_AND_REGISTERS.pdf`
+- ClassRoomFiles: `Explore ARM/ClassRoomFiles/Software Delays Super Loop.pdf`
+- ClassRoomFiles: `Explore ARM/ClassRoomFiles/GPIO Operations.pdf`
+- ClassRoomFiles: `Explore ARM/ClassRoomFiles/7SEG_14032024.pdf`
+- ClassRoomFiles: `Explore ARM/ClassRoomFiles/PLL.pdf`
+- ClassRoomFiles: `Explore ARM/ClassRoomFiles/UART.pdf`
+- Class_Programs: `Explore ARM/Class_Programs/spi_eeprom_test_1.c`
+- Class_Programs: `Explore ARM/Class_Programs/V23HE7_ARM_EMBC.zip`
+- Class_Programs: `Explore ARM/Class_Programs/ca7seg_test.c`
+- Class_Programs: `Explore ARM/Class_Programs/ca7seg_2_mux_test.c`
+- Class_Programs: `Explore ARM/Class_Programs/electronic_dice.c`
+- Class_Programs: `Explore ARM/Class_Programs/seg.c`
+- Class_Programs: `Explore ARM/Class_Programs/seg.h`
+- Class_Programs: `Explore ARM/Class_Programs/seg_defines.h`
+- Class_Programs: `Explore ARM/Class_Programs/CA7SEG_2_MUX.DSN`
+- Class_Programs: `Explore ARM/Class_Programs/CA7SEG_4_MUX.DSN`
+- Class_Programs: `Explore ARM/Class_Programs/ca7seg_4_mux_test.c`
+- Class_Programs: `Explore ARM/Class_Programs/seg (1).c`
+- Class_Programs: `Explore ARM/Class_Programs/seg (1).h`
+- Class_Programs: `Explore ARM/Class_Programs/seg_defines (1).h`
+- Class_Programs: `Explore ARM/Class_Programs/electronic_dice_3.c`
+- Class_Programs: `Explore ARM/Class_Programs/lcd.c`
+- Class_Programs: `Explore ARM/Class_Programs/lcd.h`
+- Class_Programs: `Explore ARM/Class_Programs/lcd_defines.h`
+- Class_Programs: `Explore ARM/Class_Programs/lcd (1).c`
+- Class_Programs: `Explore ARM/Class_Programs/lcd_test.c`
+- Class_Programs: `Explore ARM/Class_Programs/eint0_test.c`
+- Class_Programs: `Explore ARM/Class_Programs/eint0_eint1_test.c`
+- Class_Programs: `Explore ARM/Class_Programs/eint0_eint1_eint2_test.c`
+- Class_Programs: `Explore ARM/Class_Programs/PLL_CODE.zip`
+- Class_Programs: `Explore ARM/Class_Programs/kpm_test.c`
+- Class_Programs: `Explore ARM/Class_Programs/kpm.h`
+- Class_Programs: `Explore ARM/Class_Programs/kpm_defines.h`
+- Class_Programs: `Explore ARM/Class_Programs/kpm.c`
+- Class_Programs: `Explore ARM/Class_Programs/kpm_test_2.c`
+- Class_Programs: `Explore ARM/Class_Programs/softuart.c`
+- Class_Programs: `Explore ARM/Class_Programs/softuart.h`
+- Class_Programs: `Explore ARM/Class_Programs/softuart_tx.c`
+- Class_Programs: `Explore ARM/Class_Programs/softuart_rx.c`
+- Class_Programs: `Explore ARM/Class_Programs/uart_defines.h_06042024.h`
+- Class_Programs: `Explore ARM/Class_Programs/uart/uart_defines.h`
+- Class_Programs: `Explore ARM/Class_Programs/uart/uart.h`
+- Class_Programs: `Explore ARM/Class_Programs/uart/uart.c`
+- Class_Programs: `Explore ARM/Class_Programs/uart/uart_tx_test.c`
+- Class_Programs: `Explore ARM/Class_Programs/uart/uart_rx_test.c`
+- Class_Programs: `Explore ARM/Class_Programs/uart/uart_tx_interrupt_test.c`
+- Class_Programs: `Explore ARM/Class_Programs/uart.c`
+- Class_Programs: `Explore ARM/Class_Programs/uart/uart_tx_test_2.c`
+- Class_Programs: `Explore ARM/Class_Programs/i2c/ARM_I2C.DSN`
+- Class_Programs: `Explore ARM/Class_Programs/i2c/I2C_EEPROM_1 (2).docx`
+- Class_Programs: `Explore ARM/Class_Programs/i2c/i2c_eeprom_test_1.c`
+- Class_Programs: `Explore ARM/Class_Programs/i2c_eeprom.h`
+- Class_Programs: `Explore ARM/Class_Programs/i2c/i2c_eeprom.c`
+- Class_Programs: `Explore ARM/Class_Programs/SPI/spi_eeprom_test_1.c`
+- Class_Programs: `Explore ARM/Class_Programs/SPI/spi_eeprom_test_2.c`
+- Class_Programs: `Explore ARM/Class_Programs/SPI/SPI_EEPROM_DRIVER_PERIPHERAL (1).docx`
+- Class_Programs: `Explore ARM/Class_Programs/SPI/SPI_EEPROM_DRIVER_BITBANGING.docx`
+- Class_Programs: `Explore ARM/Class_Programs/SPI/SPI_EEPROM_2_DEBUG_SCRIPT (1).docx`
+- Class_Programs: `Explore ARM/Class_Programs/CAN_Basic/can_defines.h`
+- Class_Programs: `Explore ARM/Class_Programs/CAN_Basic/can.h`
+- Class_Programs: `Explore ARM/Class_Programs/CAN_Basic/can.c`
+- Class_Programs: `Explore ARM/Class_Programs/CAN_Basic/can_tx_test.c`
+- Class_Programs: `Explore ARM/Class_Programs/LPC2129_TIMER_PERIPHERALS_DELAYS.zip`
+- KIT PRACTICE INFORMATION: `Explore ARM/KIT PRACTICE INFORMATION/2148 DATA SHEET.pdf`
+- KIT PRACTICE INFORMATION: `Explore ARM/KIT PRACTICE INFORMATION/2148 SCHEMATIC.pdf`
+- KIT PRACTICE INFORMATION: `Explore ARM/KIT PRACTICE INFORMATION/INTERFACING PROGRAMS.pdf`
+- KIT PRACTICE INFORMATION: `Explore ARM/KIT PRACTICE INFORMATION/2148 DEVELOPMENT BOARD.pdf`
+- KIT PRACTICE INFORMATION: `Explore ARM/KIT PRACTICE INFORMATION/2148 KIT INSTRUCTIONS.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/EBOOKS/ARM System Developers Guide_ Designing and Optimizing System Software (The Morgan Kaufmann Series in Computer Architecture and Design) ( PDFDrive ).pd`
+- Reference_Files: `Explore ARM/Reference_Files/EBOOKS/lpc-ARM-book_srn.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS LCD/hd44780.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS LCD/LCD Interfacing using HD44780 Hitachi chipset compatible LCD.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS MICROCONTROLLERS/LPC2129_Manual_new.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS MICROCONTROLLERS/LPC2129.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS MICROCONTROLLERS/LPC2141_42_44_46_48.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS MICROCONTROLLERS/LPC214x Manual.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS MICROCONTROLLERS/user_manual_lpc2119_2129_2194_2292_2294.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/ARM Introduction 1.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/ARM Introduction 2.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/ARM Introduction.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/ARM 7 Core.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/CPU Design Architectures.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/ARM FLAG REGISTER.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/ARM7 PIPELINING.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/Bus Architecture  Memory Map.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/ARM7 Exceptions.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/LPC2129 Features.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction CAN/CAN  Day 1.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction CAN/CAN  Day 2.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction CAN/CAN  Day 3.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction CAN/CAN  Day 4.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction CAN/CAN  Day 5.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction CAN/CAN  Day 6.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction CAN/CAN Day 7.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction I2C/I2C  1- Features.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction I2C/I2C  2 - Physical Aspects.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction I2C/I2C  3 Events.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction I2C/I2C  4 Events Contd.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction I2C/I2C  5 EEPROM 24C01.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction I2C/I2C  6 RTC DS1307.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction SPI/SPI  Day 1.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction SPI/SPI  Day 5.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction/Alphanumeric LCD .pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction CAN/CAN_1_Basic.docx`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction CAN/CAN_2_WithAcceptanceFiltering.docx`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction CAN/CAN Driver Using LPC2129 uC - Level 2.pptx`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction Interrupts/Interrupts.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction CAN/CAN Driver Using LPC2129 uC - Level 1 TxRx.pdf`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction CAN/CAN_3_WithAcceptanceFilteringAndInterrupts.docx`
+- Reference_Files: `Explore ARM/Reference_Files/ARM Introduction CAN/CAN_4_NodeLoopBack(CAN1TxCAN2Rx).docx`
+- Reference_Files: `Explore ARM/Reference_Files/DATA SHEETS/24AA512.PDF`
+- FAQ'S: `Explore ARM/FAQ'S/1. CISC_vs_RISC.docx`
+- FAQ'S: `Explore ARM/FAQ'S/3. Introduction to ARM Evolution .docx`
+- FAQ'S: `Explore ARM/FAQ'S/2. Von_Neuman_Vs_Harvard.docx`
+- FAQ'S: `Explore ARM/FAQ'S/5. AMBA_LPC2129_Features.docx`
+- FAQ'S: `Explore ARM/FAQ'S/6. AddressingModes_And_InstructionSet.docx`
+- FAQ'S: `Explore ARM/FAQ'S/7. ARM_Assembly_Exercise_1.docx`
+- FAQ'S: `Explore ARM/FAQ'S/8. ARM_ASSEMBLY_EXERCISE_2.docx`
+- FAQ'S: `Explore ARM/FAQ'S/9. ARM_Assembly_Exercise_3.docx`
+- FAQ'S: `Explore ARM/FAQ'S/10. ASSEMBLY_EMB_C_EXERCISE.docx`
+- FAQ'S: `Explore ARM/FAQ'S/4. ARM7_Architecture_QB.docx`
+- FAQ'S: `Explore ARM/FAQ'S/11. ASSEMBLY_EMBC_EXERCISE.docx`
+- FAQ'S: `Explore ARM/FAQ'S/12. BIT_OPERATIONS_ASSEMBLY_EXERCISE.ASM`
+- FAQ'S: `Explore ARM/FAQ'S/13. SWITCH_LED_ASSEMBLY_EXERCISE.docx`
+- FAQ'S: `Explore ARM/FAQ'S/14. UART_PART1.docx`
+- FAQ'S: `Explore ARM/FAQ'S/15. Interrupts.docx`
+- FAQ'S: `Explore ARM/FAQ'S/16. I2C_QB/I2C_PERIPHARAL.docx`
+- FAQ'S: `Explore ARM/FAQ'S/16. I2C_QB/Bus Protocol.docx`
+- FAQ'S: `Explore ARM/FAQ'S/16. I2C_QB/I2C Objective Questions Set 1.docx`
+- FAQ'S: `Explore ARM/FAQ'S/16. I2C_QB/I2C Objective Questions Set 2.docx`
+- FAQ'S: `Explore ARM/FAQ'S/16. I2C_QB/I2C Objective Questions Set 3.docx`
+- FAQ'S: `Explore ARM/FAQ'S/16. I2C_QB/I2C SA Questions Set 1.docx`
+- FAQ'S: `Explore ARM/FAQ'S/16. I2C_QB/I2C SA Questions Set 2.docx`
+- FAQ'S: `Explore ARM/FAQ'S/16. I2C_QB/I2C SA Questions Set 3.docx`
+- FAQ'S: `Explore ARM/FAQ'S/16. I2C_QB/I2C_OQS.docx`
+- FAQ'S: `Explore ARM/FAQ'S/17. SPI_PERIPHARAL.docx`
+- FAQ'S: `Explore ARM/FAQ'S/18. Switch_LED_QB.docx`
+- FAQ'S: `Explore ARM/FAQ'S/19. CAN_QB/CAN OBJECTIVE QUESTIONS SET 1.docx`
+- FAQ'S: `Explore ARM/FAQ'S/19. CAN_QB/CAN OBJECTIVE QUESTIONS SET 2.docx`
+- FAQ'S: `Explore ARM/FAQ'S/19. CAN_QB/CAN OBJECTIVE QUESTIONS SET 3.docx`
+- FAQ'S: `Explore ARM/FAQ'S/19. CAN_QB/CAN OBJECTIVE QUESTIONS SET 4.docx`
+- FAQ'S: `Explore ARM/FAQ'S/19. CAN_QB/CAN OBJECTIVE QUESTIONS SET 5.docx`
+- FAQ'S: `Explore ARM/FAQ'S/19. CAN_QB/CAN OBJECTIVE QUESTIONS SET 6.docx`
+- FAQ'S: `Explore ARM/FAQ'S/19. CAN_QB/CAN OBJECTIVE QUESTIONS SET 7.docx`
+- FAQ'S: `Explore ARM/FAQ'S/19. CAN_QB/CAN_FAQSAS.odt`
+
+## PRACTISE TESTS
+
+- PRACTISE TEST - 1 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58507
+- PRACTISE TEST - 2 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58510
+- PRACTISE TEST - 3 : ARM7 Architecture 1 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58513
+- PRACTISE TEST - 4 : ARM 7 Architecture 2 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58516
+- PRACTISE TEST - 5 : ARM 7 Architecture 3 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58519
+- PRACTISE TEST - 6 : ARM 7 Architecture 4 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58522
+- PRACTISE TEST 7 : LPC2129 Features &amp; GPIO Operations (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58525
+- PRACTISE TEST 8 : LPC2129 GPIO PERIPHERAL &amp; OPERATIONS 2 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58528
+- PRACTISE TEST 9 : LPC2129 GPIO PERIHERAL , SWITCH &amp; LED (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58531
+- PRACTISE TEST 10 : LPC2129 GPIO PERIPHERAL , SWITCH &amp; LED 2 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58534
+- PRACTISE TEST 11 : LPC2129 GPIO PERIPHERAL , SWITCH &amp; LED 3 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58537
+- PRACTISE TEST 12 : LPC2129 GPIO PERIPHERAL , SWITCH &amp; LED 4 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58540
+- PRACTISE TEST 13 : 7 SEGMENT DISPLAY (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58543
+- PRACTISE TEST 14 : LCD1 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58546
+- PRACTISE TEST - 15  : LCD2 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58549
+- PRACTICE TEST - 16 LCD3 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58552
+- PRACTICE TEST - 17 LCD4 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58555
+- PRACTISE TEST - 18 : KEYPAD MATRIX DRIVER (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61225
+- PRACTISE TEST 19 : MACROS (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61228
+- PRACTISE TEST 20 : PLL, VPB &amp; Startup.S (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61231
+- PRACTISE TEST - 21 : UART Bit Banging Driver (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61234
+- PRACTICE TEST - 22 : LPC2129  - UART PERIPHERAL 1 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61237
+- PRACTISE TEST  - 23 : LPC2129 UART PERIPHERAL   2 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61240
+- PRACTISE TEST 24 : LPC2129 Interrupts (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61243
+- PRACTISE TEST 25 : LPC2129 eint0_test.c (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61246
+- PRACTISE TEST 26  :  I2C Protocol (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61249
+- PRACTISE TEST 27 : I2C Bit Banging Driver (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61252
+- PRACTISE TEST 28 : I2C Peripheral Driver (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61255
+- PRACTISE TEST 29 : SPI PROTOCOL &amp; Driver Pseudo Code (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61258
+- PRACTICE TEST - 30: SPI PROTOCOL (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61261
+- PRACTISE TEST 31 : SPI BITBANGING DRIVER FOR 25LC512 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61264
+- PRACTISE TEST 32 : SPI PERIPHERAL DRIVER FOR 25LC512 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61267
+- PRACTISE TEST 33 : CAN PROTOCOL (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61270
+- PRACTISE TEST 34 : LPC2129 CAN PERIPHERAL DRIVER (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61273
+- PRACTISE TEST 35 : LPC2129 CAN PERIPHERAL DRIVER 2 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61276
+
+## PROJECTS
+
+- Project Class Introduction: `PROJECTS/Project Class Introduction/Project Class Introduction.pdf`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/74HC_HCT164.pdf`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/74HC_HCT573.pdf`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/AT24C256.pdf`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/BL-M12A883xx.PDF`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/DOT MATRIX BOARD CONNECTIONS.jpg`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/DOT MATRIX BOARD SCHEMATIC.pdf`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/LPC214x Manual.pdf`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/LPC2141_42_44_46_48.pdf`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/Neo_M660A GPRS Module AT Command Set V1.0.pdf`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/Neo_M660A GPRS Module Hardware User Guide V1.1.pdf`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/Neo_M660A GPRS Module Specification V1.1.pdf`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/single dot matrix connection.png`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/GSM CONNECTIONS.jpg`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/dot matrix display.pptx`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/4 DOT MATRIXS DISPLAY.pptx`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/ABSTRACT/WIRELESS E-NOTICE BOARD.docx`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/ABSTRACT/WIRELESS E-NOTICE BOARD.pdf`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/4 dot matrix proteus connections.jpg`
+- WIRELESS E-NOTICE BOARD: `PROJECTS/WIRELESS E-NOTICE BOARD/REFERENCE DATA/4 dot matrix proteus connections_lpc2124.jpg`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/REFERENCE DATA/AT24C256.pdf`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/REFERENCE DATA/EM4095_DS.pdf`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/REFERENCE DATA/ID_Cards_RFID_01_181113-624x624.jpg`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/REFERENCE DATA/LPC214x Manual.pdf`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/REFERENCE DATA/LPC2141_42_44_46_48.pdf`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/REFERENCE DATA/RFID CARDS.jpg`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/REFERENCE DATA/RFID INTRODUCTION.pdf`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/REFERENCE DATA/RFID KEY CHAINS.jpg`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/REFERENCE DATA/RFID WRISTBAND.jpg`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/REFERENCE DATA/RFID.ppt`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/REFERENCE DATA/rfid-card.jpg`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/REFERENCE DATA/rfid-card-based-time-attendance-system-250x250.jpg`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/REFERENCE DATA/rfid-tag-card.jpg`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/REFERENCE DATA/User Manual For AMP-RFRS.pdf`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/ABSTRACT/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID.docx`
+- ATTENDANCE SYSTEM IMPLEMENTATION USING RFID: `PROJECTS/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID/ABSTRACT/ATTENDANCE SYSTEM IMPLEMENTATION USING RFID.pdf`
+- EXPLORING CAN FOR REAL TIME APPLICATIONS: `PROJECTS/EXPLORING CAN FOR REAL TIME APPLICATIONS/REFERENCE DATA/CAN Driver Using LPC2129 uC - Level 1_05242022.pdf`
+- EXPLORING CAN FOR REAL TIME APPLICATIONS: `PROJECTS/EXPLORING CAN FOR REAL TIME APPLICATIONS/REFERENCE DATA/DISTANCE SENSOR.pptx`
+- EXPLORING CAN FOR REAL TIME APPLICATIONS: `PROJECTS/EXPLORING CAN FOR REAL TIME APPLICATIONS/REFERENCE DATA/DS18B20.pdf`
+- EXPLORING CAN FOR REAL TIME APPLICATIONS: `PROJECTS/EXPLORING CAN FOR REAL TIME APPLICATIONS/REFERENCE DATA/GP2D12.pdf`
+- EXPLORING CAN FOR REAL TIME APPLICATIONS: `PROJECTS/EXPLORING CAN FOR REAL TIME APPLICATIONS/REFERENCE DATA/lpc2119_2129.pdf`
+- EXPLORING CAN FOR REAL TIME APPLICATIONS: `PROJECTS/EXPLORING CAN FOR REAL TIME APPLICATIONS/REFERENCE DATA/LPC2129_Manual_new.pdf`
+- EXPLORING CAN FOR REAL TIME APPLICATIONS: `PROJECTS/EXPLORING CAN FOR REAL TIME APPLICATIONS/REFERENCE DATA/MCP2515.pdf`
+- EXPLORING CAN FOR REAL TIME APPLICATIONS: `PROJECTS/EXPLORING CAN FOR REAL TIME APPLICATIONS/REFERENCE DATA/sharp_gp2d12.pdf`
+- EXPLORING CAN FOR REAL TIME APPLICATIONS: `PROJECTS/EXPLORING CAN FOR REAL TIME APPLICATIONS/REFERENCE DATA/user_manual_lpc2119_2129_2194_2292_2294.pdf`
+- EXPLORING CAN FOR REAL TIME APPLICATIONS: `PROJECTS/EXPLORING CAN FOR REAL TIME APPLICATIONS/ABSTRACT/EXPLORING CAN FOR REAL TIME APPLICATIONS.doc`
+- EXPLORING CAN FOR REAL TIME APPLICATIONS: `PROJECTS/EXPLORING CAN FOR REAL TIME APPLICATIONS/ABSTRACT/EXPLORING CAN FOR REAL TIME APPLICATIONS.pdf`
+- IOT BASED WEATHER REPORTING SYSTEM: `PROJECTS/IOT BASED WEATHER REPORTING SYSTEM/REFERENCE DATA/4a-esp8266_at_instruction_set_en_v1.5.4_0.pdf`
+- IOT BASED WEATHER REPORTING SYSTEM: `PROJECTS/IOT BASED WEATHER REPORTING SYSTEM/REFERENCE DATA/dht11.pdf`
+- IOT BASED WEATHER REPORTING SYSTEM: `PROJECTS/IOT BASED WEATHER REPORTING SYSTEM/REFERENCE DATA/DHT11_1.pdf`
+- IOT BASED WEATHER REPORTING SYSTEM: `PROJECTS/IOT BASED WEATHER REPORTING SYSTEM/REFERENCE DATA/ESP01 COMMANDS RESPONCES.jpg`
+- IOT BASED WEATHER REPORTING SYSTEM: `PROJECTS/IOT BASED WEATHER REPORTING SYSTEM/REFERENCE DATA/ESP-01 PIN OUT.jpg`
+- IOT BASED WEATHER REPORTING SYSTEM: `PROJECTS/IOT BASED WEATHER REPORTING SYSTEM/REFERENCE DATA/esp01.pdf`
+- IOT BASED WEATHER REPORTING SYSTEM: `PROJECTS/IOT BASED WEATHER REPORTING SYSTEM/REFERENCE DATA/esp8266_series_modules_user_manual_en.pdf`
+- IOT BASED WEATHER REPORTING SYSTEM: `PROJECTS/IOT BASED WEATHER REPORTING SYSTEM/REFERENCE DATA/ESP8266Ref.pdf`
+- IOT BASED WEATHER REPORTING SYSTEM: `PROJECTS/IOT BASED WEATHER REPORTING SYSTEM/REFERENCE DATA/How to access THINGSPEAK reference Link.txt`
+- IOT BASED WEATHER REPORTING SYSTEM: `PROJECTS/IOT BASED WEATHER REPORTING SYSTEM/REFERENCE DATA/LPC214x Manual.pdf`
+- IOT BASED WEATHER REPORTING SYSTEM: `PROJECTS/IOT BASED WEATHER REPORTING SYSTEM/REFERENCE DATA/LPC2129_Manual_new.pdf`
+- IOT BASED WEATHER REPORTING SYSTEM: `PROJECTS/IOT BASED WEATHER REPORTING SYSTEM/REFERENCE DATA/LPC2141_42_44_46_48.pdf`
+- IOT BASED WEATHER REPORTING SYSTEM: `PROJECTS/IOT BASED WEATHER REPORTING SYSTEM/ABSTRACT/IOT BASED WEATHER REPORTING SYSTEM.docx`
+- IOT BASED WEATHER REPORTING SYSTEM: `PROJECTS/IOT BASED WEATHER REPORTING SYSTEM/ABSTRACT/IOT BASED WEATHER REPORTING SYSTEM.pdf`
+- REFERENCE PROGRAMS: `PROJECTS/REFERENCE PROGRAMS/ADC_LPC2129.zip`
+- REFERENCE PROGRAMS: `PROJECTS/REFERENCE PROGRAMS/CAN_Test.zip`
+- REFERENCE PROGRAMS: `PROJECTS/REFERENCE PROGRAMS/External_Interrupts.zip`
+- REFERENCE PROGRAMS: `PROJECTS/REFERENCE PROGRAMS/LPC2129_I2C_EEPROM_PERIPHERAL_2.zip`
+- REFERENCE PROGRAMS: `PROJECTS/REFERENCE PROGRAMS/LPC2148_DHT11_LCD.zip`
+- REFERENCE PROGRAMS: `PROJECTS/REFERENCE PROGRAMS/LPC2148-ESP01.zip`
+- REFERENCE PROGRAMS: `PROJECTS/REFERENCE PROGRAMS/RTC_LPC2148.zip`
+- REFERENCE PROGRAMS: `PROJECTS/REFERENCE PROGRAMS/SINGLE_DOT_MATRIX_SHIFT_REGISTER.zip`
+- REFERENCE PROGRAMS: `PROJECTS/REFERENCE PROGRAMS/UART_INTERRUPT.zip`
+- REFERENCE PROGRAMS: `PROJECTS/REFERENCE PROGRAMS/LPC2148_DS18B20_LCD.zip`
+- REFERENCE PROGRAMS: `PROJECTS/REFERENCE PROGRAMS/UART_LOOPBACK_CODE_FOR_LINUX.zip`

@@ -1,0 +1,414 @@
+# V23HE7 - C
+
+
+## General
+
+- Announcements (forum) — no downloadable file; see https://lms.vectorinstitute.in/mod/forum/view.php?id=54841
+- Exams info: `General/Exams info/EXAMS_PROCEDURE_GUIDE_ LINES_V23series.pdf`
+- Advanced C sessions info: `General/Advanced C sessions info/V23he7-Advanced_c.pdf`
+
+## NOTES and Documents
+
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-11-24-Note-11-24.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-11-25-Note-11-24.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-11-27-Note-11-22.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-11-28-Note-11-30.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-11-29-Note-11-29.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-01-Note-11-43.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-02-Note-11-31.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-04-Note-11-30.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-05-Note-11-36.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-06-Note-11-32.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-8-Note-11-30.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-09-Note-11-50.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-11- 4.Operator_classroom_example.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-11-Note-01-15.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-12-Note-11-29.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-12-bit_wise-NOTE-01.15.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-13-Note-11-30.pdf.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-14-Note-11-35.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/float2Bin.c`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-15-Note-11-32.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-16-Note-11-30.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-18-Note-11-40.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-19-Note-11-37.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-20-Note-11-30.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-21-Note-11-31.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-22-Note-11-42.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-23-Note-11-29.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-26-Note-11-28.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/7. V23he7_loop2.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-28-Note-11-50.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2023-12-29-Note-11-31.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-01-Note-11-33.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-02-Note-11-28.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-03-Note-11-30.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/12. function_2.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-04-Note-10-14.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-04-Note-11-35.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-06-Note-11-32.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-07-Note-12-15.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-08-Note-11-32.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-09-Note-11-30.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-11-Note-11-22.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-12-Note-11-26.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-17-Note-11-26.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-18-Note-11-34.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-19-Note-11-19.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-20-Note-11-31.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-22-Note-11-30.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-23-Note-11-35.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-24-Note-11-30.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-25-Note-11-35.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-29-Note-11-30.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-30-Note-11-33.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-01-31-Note-11-40.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-01-Note-11-33.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-02-Note-11-29.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-03-Note-11-33.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/strtok.c`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-05-Note-10-46.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-05-Note-11-51.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-06-Note-11-29.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-07-Note-11-27.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-09-Note-11-31.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-12-Note-11-31.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-13-Note-11-32.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-14-Note-11-23.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-15-Note-11-32.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-16-Note-11-31.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-19-Note-11-39.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-20-Note-11-29.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-21-Note-11-35.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-22-Note-11-28.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-23-Note-13-21.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-23-24-Preprocessor.pptx`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-02-24-Note-13-25.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-05-Note-13-03.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-06-Note-13-08.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-07-Note-13-09.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-08-Note-13-04.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-09-Note-13-09.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-11-Note-13-08.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-12-Note-13-16.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-13-Note-11-27.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-14-Note-11-25.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-15-Note-11-30.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-16-Note-11-29.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-18-Note-11-28.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-19-Note-11-28.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-20-Note-11-25.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-21-Note-11-33.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-26-Note-11-32.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-27-Note-11-26.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-29-Note-11-32.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-03-28-Note-11-30.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-04-01-Note-11-33.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-04-02-Note-11-27.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-04-03-Note-11-20.pdf`
+- Daily Class Notes: `NOTES and Documents/Daily Class Notes/2024-04-04-Note-11-22.pdf`
+- Assignments: `NOTES and Documents/Assignments/2. data-pdf`
+- Assignments: `NOTES and Documents/Assignments/1. fundamentals.pdf`
+- Assignments: `NOTES and Documents/Assignments/3. practice on DataType.pdf`
+- Assignments: `NOTES and Documents/Assignments/4. operator_classroom_examples.pdf`
+- Assignments: `NOTES and Documents/Assignments/bitwise_assignment-1.pdf`
+- Assignments: `NOTES and Documents/Assignments/bitwise-programs.odt`
+- Assignments: `NOTES and Documents/Assignments/5.digit based practice programs.pdf`
+- Assignments: `NOTES and Documents/Assignments/6. branching1-2.pdf`
+- Assignments: `NOTES and Documents/Assignments/7. loop2-1.pdf`
+- Assignments: `NOTES and Documents/Assignments/8. loop3-1.pdf`
+- Assignments: `NOTES and Documents/Assignments/11.functions-1-2.pdf`
+- Assignments: `NOTES and Documents/Assignments/12. function_2.pdf`
+- Assignments: `NOTES and Documents/Assignments/13.StorageClassFAQ.pdf`
+- Assignments: `NOTES and Documents/Assignments/14.Pointer basics.pdf`
+- Assignments: `NOTES and Documents/Assignments/15.Array_vs_ pointer.pdf`
+- Assignments: `NOTES and Documents/Assignments/16. strings_1.pdf`
+- Assignments: `NOTES and Documents/Assignments/17. Preprocessor.pdf`
+- Assignments: `NOTES and Documents/Assignments/18. Preprocessor_DefineMacro_Assignments.pdf`
+- Example Programs: `NOTES and Documents/Example Programs/bitOperations_1.c`
+- Example Programs: `NOTES and Documents/Example Programs/bitOperations_0.c`
+- Example Programs: `NOTES and Documents/Example Programs/listPrime.c`
+- Example Programs: `NOTES and Documents/Example Programs/listPrime_2.c`
+- Example Programs: `NOTES and Documents/Example Programs/cntVowels.c`
+- Example Programs: `NOTES and Documents/Example Programs/Structures/Arrayofstructure.c`
+- Example Programs: `NOTES and Documents/Example Programs/Structures/Compare.c`
+- Example Programs: `NOTES and Documents/Example Programs/Structures/copy1.c`
+- Example Programs: `NOTES and Documents/Example Programs/Structures/copy2.c`
+- Example Programs: `NOTES and Documents/Example Programs/Structures/copy3.c`
+- Example Programs: `NOTES and Documents/Example Programs/Structures/pointertostruct.c`
+- Example Programs: `NOTES and Documents/Example Programs/Structures/struct1.c`
+- Example Programs: `NOTES and Documents/Example Programs/Structures/structDemo.c`
+- backup_class: `NOTES and Documents/backup_class/15. arrayVsPointer_assign.pdf`
+- backup_class: `NOTES and Documents/backup_class/2024-01-29-Note-13-12.pdf`
+- backup_class: `NOTES and Documents/backup_class/sortNthWord.c`
+- backup_class: `NOTES and Documents/backup_class/strtok_doc-1.pdf`
+- backup_class: `NOTES and Documents/backup_class/2024-06-03-Note-18-37.pdf`
+- backup_class: `NOTES and Documents/backup_class/2024-06-04-Note-18-30.pdf`
+- backup_class: `NOTES and Documents/backup_class/2024-06-05-Note-18-01.pdf`
+- backup_class: `NOTES and Documents/backup_class/2024-06-06-Note-18-32.pdf`
+- CodeSnippets_BackupClass_Progs: `NOTES and Documents/CodeSnippets_BackupClass_Progs/1.operators(1).docx`
+- CodeSnippets_BackupClass_Progs: `NOTES and Documents/CodeSnippets_BackupClass_Progs/2.Control statements and loops.docx`
+- CodeSnippets_BackupClass_Progs: `NOTES and Documents/CodeSnippets_BackupClass_Progs/1Armstrong.c`
+- CodeSnippets_BackupClass_Progs: `NOTES and Documents/CodeSnippets_BackupClass_Progs/2Factrots.c`
+- CodeSnippets_BackupClass_Progs: `NOTES and Documents/CodeSnippets_BackupClass_Progs/3Prime_DigitCheck.c`
+- CodeSnippets_BackupClass_Progs: `NOTES and Documents/CodeSnippets_BackupClass_Progs/4Prime_DigitCheck_Asceg.c`
+- CodeSnippets_BackupClass_Progs: `NOTES and Documents/CodeSnippets_BackupClass_Progs/5Char_Swap_Nibble.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/3D_ARRAY/contactDB1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/3D_ARRAY/mark_3d_array.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/2D_Array/nameDatabaseFixedSize.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/2D_Array/nameDatabaseDMA_1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/2D_Array/nameDatabaseDynamic_2.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Matrix based/spiral.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Matrix based/transpose.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Matrix based/matrix_addition.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Matrix based/matrix_sub.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/macro_scope.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/macrovsfunction.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/swap_four_bytes.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/swap_bytes.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/swap_two_variables_wo3rdvar.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/swap_two_variables.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/setbit_clrbit_macro.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/printf_macro.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/mul_macro.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/_vec.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/loop.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/5+5.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/cube_macro.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/macro_example.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/predefined_macros.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/add.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/basic.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/stdio.h`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/tokenpasting2.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/tokenpasting1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/stringize_example3.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/stringize_example2.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/stringize_example1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/conditionlcompilation.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/PREPROCESSOR/debug.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/Add.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/Arrayofstructure.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/Compare.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/copy1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/copy2.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/copy3.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/Menu.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/myheader.h`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/pointertostruct.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/struct1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/structArrtoFun.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/structDemo.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/structofun.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/structofun1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/view.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures ProductusingDMA/Add.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures ProductusingDMA/Del.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures ProductusingDMA/Menu.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures ProductusingDMA/myheader.h`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures ProductusingDMA/View.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructurePadding/demo1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructurePadding/demo2.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructurePadding/demo3.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructurePadding/demo6.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructurePadding/demo5.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructurePadding/demo4.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructurePadding/attributepack.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructurePadding/pragmapack3.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructurePadding/pragmapack2.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructurePadding/pragmapack1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/nestedstructmethod2.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/nestedstruct2.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures/nestedstruct.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructureBitfield/demo.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructureBitfield/demo1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructureBitfield/demo2.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructureBitfield/timedemo.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Structures StructureBitfield/timedemo1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Unions/1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Unions/2.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Unions/Endianess.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Unions/BinaryEquoffloat.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Enums/enum1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Enums/enum2.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Enums/enum3.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Enums/weekdaywithenum.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Enums/weekday.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Enums/sizeofenum.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/Enums/enum4.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/data`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/demo.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/demo1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/Copy1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/Copy2.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/Copy3.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/mygrep.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/mywc.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/substrrevinfile.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/DeleteLine.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/Sortlines.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/primenostofile.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/replacealloccofsubwithnew(1).c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/arraytofile.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/arraytofileusinffpf.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/arrfromfsf.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/arrofstrusingfpf.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/primenos.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/unnamestruct.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/unnamestructwithtypefe.c.swp` (download failed: HTTP Error 403: Forbidden)
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE/unnamestructwithtypefe.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE ProducrCart/Add.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE ProducrCart/Del.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE ProducrCart/Menu.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE ProducrCart/myheader.h`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE ProducrCart/prodfile`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE ProducrCart/Save.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE ProducrCart/Sync.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/FILE ProducrCart/View.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS/Add.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS/Menu.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS/myheader.h`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS/Print.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/2D_Array/name_database_reference.pdf`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/3D_ARRAY/contact_db2.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS/Del.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS/makefile`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS/Save.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS/Sync.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS Addinsorted/Add.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS Addinsorted/Del.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS Addinsorted/makefile`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS Addinsorted/Menu.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS Addinsorted/myheader.h`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS Addinsorted/Print.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS AddFirst]/Add.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS AddFirst]/Del.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS AddFirst]/DelFirst.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS AddFirst]/makefile`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS AddFirst]/Menu.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS AddFirst]/myheader.h`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS AddFirst]/Print.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS DLL/AddFirst.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS DLL/AddLast.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS DLL/DelData.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS DLL/Deletelast.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS DLL/DelFirst.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS DLL/DelLast.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS DLL/Display.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS DLL/makefile`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS DLL/makefile1`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS DLL/Menu.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS DLL/Menu1.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS DLL/myheader.h`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS DLL/Reverse.c`
+- ClassPrograms: `NOTES and Documents/ClassPrograms/DS DLL/RPrint.c`
+- STRUCTURE  assignments: `NOTES and Documents/STRUCTURE  assignments/structure_codes_FAQs.pdf`
+- STRUCTURE  assignments: `NOTES and Documents/STRUCTURE  assignments/UNION_codes_FAQs.pdf`
+- DS_Workshop: `NOTES and Documents/DS_Workshop/DS_signly_linked_list he7.pdf`
+- DS_Workshop: `NOTES and Documents/DS_Workshop/add_last.c`
+- DS_Workshop: `NOTES and Documents/DS_Workshop/main_file.c`
+- DS_Workshop: `NOTES and Documents/DS_Workshop/midnode.c`
+- DS_Workshop: `NOTES and Documents/DS_Workshop/myheaders.h`
+- DS_Workshop: `NOTES and Documents/DS_Workshop/delall.c`
+- DS_Workshop: `NOTES and Documents/DS_Workshop/print.c`
+- Advanced C: `NOTES and Documents/Advanced C/C library.pdf`
+- Advanced C: `NOTES and Documents/Advanced C/LIBRARYy.pdf`
+- Advanced C: `NOTES and Documents/Advanced C/2024-06-24-Note-15-21.pdf`
+- Advanced C: `NOTES and Documents/Advanced C/Variable arguments/Variable Argument List Function.pdf`
+- Advanced C: `NOTES and Documents/Advanced C/Variable arguments/var_argument_list.pdf`
+- Advanced C: `NOTES and Documents/Advanced C/Variable arguments/LIB_FAQ.pdf`
+
+## Quiz
+
+- TEST - 1 - COMPILATION STAGES (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=55120
+- TEST - 2 - ERRORS IN C (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=55123
+- TEST - 3 - CHAR DATATYPE (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=55360
+- TEST - 4 - INT DATATYPE (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=55363
+- TEST - 5  OPERATOR - 1 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=55396
+- TEST - 6 - OPERATORS 2 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=55399
+- TEST - 7 - OPERATORS 3 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=55402
+- TEST - 8 - CONTROL STATEMENT - 1( only IF syntax based ) (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=56212
+- TEST - 9 - CONTROL STATEMENT 2 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=56299
+- TEST 10-CONTROL STATEMENT -3 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=56302
+- QUIZ_11  FUNCTIONS 1 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=56773
+- QUIZ _12 FUNCTIONS 2 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=56776
+- Test -13 ARRAY &amp; POINTERS (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58081
+- QUIZ-14 STRINGS (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=58249
+- TEST -14 2D Array-1 (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=59503
+- TEST -15 2D Array-2(Pointer to an Array) (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=59506
+- QUIZ -16 2D Array-3(Array of Pointer) (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=65011
+- QUIZ -17 2D Array-4(Array of Pointer) (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=65014
+- TEST - 18 - MACROS (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=59728
+- TEST-19- Structures (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=60466
+- TEST-20-FILES (quiz) — no downloadable file; see https://lms.vectorinstitute.in/mod/quiz/view.php?id=61027
+
+## VPL
+
+- Area and Circumference of a circle (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=55480
+- Temperature Conversion (F-C and C-F) (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=55483
+- Length Calculation (cm-inch &amp; inch-cm) (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=55486
+- Area of a semi-circle (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=55489
+- Finding char case (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=55492
+- Case conversion  (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=55495
+- Convert character case (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=55516
+- Profit or Loss (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=55519
+- Volume of a Sphere (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=55876
+- Power of 2 (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=55879
+- Nearest vowel  (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=55882
+- Certain sensor temperature PART-1 (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56329
+
+## VPL-STRINGS
+
+- Convert all lower case chars into upper case and vice versa (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=58222
+- Remove Extra spaces in a string (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=58225
+- Print number of times a given character repeated  (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=58237
+- Palindrome part-1 (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=58228
+- Test palindrome by removing one char ---&gt; Palindrome part-2 (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=58231
+- Implement binary to int conversion (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=58240
+- check whether the user input is  integer or float type. (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=58243
+-  Anagram (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=58234
+- Implement atof user-defined function (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=58282
+- Implement FTOA user defined function (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=58285
+- Implement  ATOI user defined function (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=58288
+- Hide the pair of vowels  (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=58291
+-  reverse all occurrences of sub string in main string (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=58294
+- Replace all occurrences of sub string in main string with opposite case of every  alphabe (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=58297
+
+## VPL_bitwise
+
+- Set first 5 odd bit positions (from LSB) (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56182
+- Clear first 5 odd bit positions (from LSB) (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56185
+- Set bit count (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56188
+- Pair of set bits count (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56191
+- Binary equivalent of given ASCII character (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56194
+- longest series of one's (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56197
+- Reverse all bits in a given integer (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56200
+
+## VPL - Digit based programs
+
+- GCD and LCM (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56599
+- Replace  0's with 1's in a given integer (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56611
+- print prime numbers in a given range in which last digit is 7 (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56614
+- Print factorial of given integer. (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56617
+- finding Second Highest digit in integer (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56620
+- Print the odd digits in a given integer  (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56623
+- Highest and Lowest Integer in an integer (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56626
+- Print the product of the digits of a given integer (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56629
+-  print non-repeated digits in a number. (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56632
+- Sum of digits reducing to single digit (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=56635
+
+## VPL-ARRAY BASED PROGRAMS
+
+- Print non-repeated elements  (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=57361
+- Print repeated elements (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=57367
+- Rotate array left/right  (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=57373
+-  Shift array to left / right (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=57376
+- Place all zeros to the end (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=57379
+- Maximum sum of any contiguous subarray (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=57382
+-  Leaders in the array (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=57385
+
+## VPL_MACROS
+
+- reverse all bits in a given integer ( complete it by using MACROS ) (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=59731
+- count pair of set bits  ( complete it by using MACROS ) (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=59734
+- SWAP the bytes in short integer  ( complete it by using MACROS ) (vpl) — no downloadable file; see https://lms.vectorinstitute.in/mod/vpl/view.php?id=59737
